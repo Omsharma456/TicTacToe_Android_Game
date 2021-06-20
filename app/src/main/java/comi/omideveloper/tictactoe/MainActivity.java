@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
                 activePlayer = 0;
                 TextView status = findViewById(R.id.status);
                 status.setText("X's Turn - Tap to Play");
-
             }
         }
 
